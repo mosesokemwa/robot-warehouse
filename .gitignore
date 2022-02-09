@@ -1,0 +1,12 @@
+.pyc
+.venv
+.vscode
+.vscode-test
+.vscode-test-python
+.vscode-test-python.pyc
+
+ex.py
+ex.pyc
+ex.pyw
+ex.pyw.pyc
+
